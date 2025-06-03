@@ -5,9 +5,8 @@ export const metadata: Metadata = {
   title: 'BookLog Plus',
   description: 'Track and share your reading journey',
   icons: {
-    icon: '/favicon.ico',
-    shortcut: '/favicon.ico',
-    apple: '/apple-icon.png',
+    icon: '/favicon.svg',
+    shortcut: '/favicon.svg',
   },
   manifest: '/manifest.json',
 }

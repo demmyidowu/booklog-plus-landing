@@ -34,6 +34,14 @@ function App() {
               thoughtful about their reading and deepen their love for books.
             </p>
 
+            <div className="max-w-4xl mx-auto mb-8">
+              <img
+                src="/booklog-demo.gif"
+                alt="BookLog+ in action - logging books and getting personalized recommendations"
+                className="rounded-lg shadow-lg border border-slate-200"
+              />
+            </div>
+
             <a
               href="https://booklogplus.up.railway.app/"
               target="_blank"

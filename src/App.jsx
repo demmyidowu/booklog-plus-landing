@@ -36,7 +36,7 @@ function App() {
 
             <div className="max-w-4xl mx-auto mb-8">
               <img
-                src="/booklog-demo.gif"
+                src="/booklog-demo-v2.gif"
                 alt="BookLog+ in action - logging books and getting personalized recommendations"
                 className="rounded-lg shadow-lg border border-slate-200"
               />
